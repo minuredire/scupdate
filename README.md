@@ -1,27 +1,13 @@
-### ORDER AUTOSCRIPT/IZIN IP
-- PRICELIST
-```
-HARGA SEWA AUTOSCRIPT 
-1 Bulan : 10K
-2 Bulan : 20K
-3 Bulan : 30K
-
-1 Tahun : 75K
-LIFETIME: 100K
-```
-• HUBUNGI:
-- Telegram: [Klik Disini](https://t.me/J)
-
 ### PERHATIAN
 
 
 - Jika mendapatkan error pada servis dalam jangka panjang, bisa restart servis yang dead.
 
 ### INSTALL SCRIPT 1
-<pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/SETANTAZVPN/scupdate/jurig/main.sh && chmod +x main.sh && screen -S install ./main.sh</code></pre>
+<pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/minuredire/scupdate/main/main.sh && chmod +x main.sh && screen -S install ./main.sh</code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget https://raw.githubusercontent.com/SETANTAZVPN/scupdate/jurig/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/minuredire/scupdate/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
@@ -66,7 +52,4 @@ LIFETIME: 100K
 ```
 ### STATUS
 `UPDATED`
-
-### Lisensi
-Repository ini dilindungi oleh lisensi [PAK POLISI](https://mit-license.org/)
 
